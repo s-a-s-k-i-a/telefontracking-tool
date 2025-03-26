@@ -52,7 +52,7 @@ Dieses Tool wird unter einer individuellen Lizenz veröffentlicht. Es darf aussc
 ## Entwicklerin
 
 **Saskia Teichmann**  
-[https://wp-studio.dev](wp-studio.dev)
+[wp-studio.dev](https://wp-studio.dev)
 Full Stack Web Developer mit Fokus auf WordPress & individuelle PHP-Tools
 
 ---
@@ -116,7 +116,7 @@ This project is released under a **custom individual license**. Commercial use a
 ## Developer
 
 **Saskia Teichmann**  
-[https://wp-studio.dev](wp-studio.dev)
+[wp-studio.dev](https://wp-studio.dev)
 Full Stack Web Developer specialized in WordPress & custom PHP tools
 
 ---
