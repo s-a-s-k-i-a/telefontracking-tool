@@ -1,21 +1,64 @@
-MIT License
+Custom License for telefontracking-tool
+(c) 2025 Saskia Teichmann
 
-Copyright (c) 2025 Saskia Lund
+This software ("telefontracking-tool") was developed by Saskia Teichmann and is provided under the following terms:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Usage
+   - Use of the source code is permitted for **non-commercial and private purposes only**.
+   - Any use in commercial projects, client work, or business environments is **not allowed** unless explicitly authorized in writing by the author.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Redistribution & Modification
+   - Redistribution of this tool or any modified versions is permitted only if such redistribution is **not public** and proper credit is given to the original author.
+   - Modifications may be made to the source code but must remain subject to the same restrictions as this license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Publication
+   - Republishing (e.g. on public repositories, websites, platforms or as part of third-party services) is only permitted with **prior written consent** from the author.
+
+4. Disclaimer of Warranty
+   - This tool is provided “as is”, without any warranty of any kind.
+   - Use at your own risk. The author shall not be liable for any damages arising from the use of this software.
+
+5. Copyright
+   - All rights to the source code are held by Saskia Teichmann.
+   - The author reserves the right to change or update this license at any time.
+
+Contact:
+Saskia Teichmann  
+hello@wp-studio.dev
+
+---
+
+Last updated: March 2025
+
+
+Nutzungsbedingungen für das telefontracking-tool
+(c) 2025 Saskia Teichmann
+
+Dieses Tool ("telefontracking-tool") wurde von Saskia Teichmann entwickelt und unterliegt den folgenden Bedingungen:
+
+1. Nutzung
+   - Die Nutzung des Quellcodes ist ausschließlich für **nicht-kommerzielle und private Zwecke** erlaubt.
+   - Eine Verwendung in kommerziellen Projekten, Kundenprojekten oder Unternehmensumgebungen ist **nicht gestattet**, es sei denn, dies wurde schriftlich mit der Autorin vereinbart.
+
+2. Weitergabe & Modifikation
+   - Die Weitergabe des Tools oder von abgeleiteten Versionen ist nur zulässig, wenn diese **nicht öffentlich** erfolgt und die ursprüngliche Urheberschaft deutlich genannt wird.
+   - Änderungen am Quellcode dürfen vorgenommen werden, müssen aber ebenfalls unter diesen Bedingungen verbleiben.
+
+3. Veröffentlichung
+   - Eine Weiterveröffentlichung (z. B. in anderen Repositories, auf Plattformen oder im Rahmen von Angeboten) ist nur mit **vorheriger, schriftlicher Genehmigung** durch die Autorin erlaubt.
+
+4. Haftungsausschluss
+   - Dieses Tool wird „as is“ bereitgestellt – ohne jegliche Gewährleistung.
+   - Die Nutzung erfolgt auf eigene Gefahr. Die Autorin haftet nicht für direkte oder indirekte Schäden, die aus der Nutzung des Tools entstehen.
+
+5. Copyright
+   - Das Urheberrecht an sämtlichem Quellcode liegt bei Saskia Teichmann.
+   - Die Autorin behält sich das Recht vor, diese Lizenz jederzeit zu ändern oder anzupassen.
+
+Kontakt:
+Saskia Teichmann  
+hello@wp-studio.dev
+
+---
+
+Letzte Aktualisierung: März 2025
