@@ -47,7 +47,7 @@ Entwickelt in PHP mit MySQL-Datenbank, jQuery-Frontend und Google Analytics Inte
 
 Dieses Tool wird unter einer individuellen Lizenz veröffentlicht. Es darf ausschließlich zu nicht-kommerziellen Zwecken verwendet werden. Die kommerzielle Nutzung oder Weitergabe ist nur mit schriftlicher Genehmigung der Entwicklerin gestattet.
 
-➡️ Details siehe [`LICENSE.txt`](LICENSE.txt)
+➡️ Details siehe [LICENSE.txt](https://github.com/s-a-s-k-i-a/telefontracking-tool/blob/main/LICENSE)
 
 ## Entwicklerin
 
@@ -111,7 +111,7 @@ Built with PHP, MySQL, jQuery frontend and Google Analytics integration.
 
 This project is released under a **custom individual license**. Commercial use and redistribution are only allowed with prior written permission from the author.
 
-➡️ See [`LICENSE.txt`](LICENSE.txt) for details.
+➡️ See [LICENSE.txt](https://github.com/s-a-s-k-i-a/telefontracking-tool/blob/main/LICENSE) for details.
 
 ## Developer
 
